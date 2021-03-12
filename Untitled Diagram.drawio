@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T04:46:29.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6BV654xhVgqs3tf-XPjz" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T04:49:58.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VjktiF228sZK2R2PS2GN" version="14.4.7" type="github">
   <diagram id="m4oOq3qNDZ7g-e-n-4RC" name="Page-1">
-    <mxGraphModel dx="2269" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="2700" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="2700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -670,6 +670,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C0099;" edge="1" parent="1" source="ks-HHhve7mKZ4W3_v99z-9" target="ks-HHhve7mKZ4W3_v99z-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1103" />
+              <mxPoint x="510" y="1169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ks-HHhve7mKZ4W3_v99z-9" value="Personal Finance" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;fillColor=#E5CCFF;strokeColor=#4C0099;" vertex="1" parent="1">
           <mxGeometry x="350" y="1090" width="140" height="25" as="geometry" />
         </mxCell>
@@ -728,6 +736,34 @@
         </mxCell>
         <mxCell id="ks-HHhve7mKZ4W3_v99z-37" value="Scheduling and Planning" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;strokeColor=#4C0099;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="530" y="1335" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-47" value="Education" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#4C0099;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C0099;" edge="1" parent="1" source="ks-HHhve7mKZ4W3_v99z-49" target="ks-HHhve7mKZ4W3_v99z-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1169" />
+              <mxPoint x="710" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C0099;" edge="1" parent="1" source="ks-HHhve7mKZ4W3_v99z-49" target="ks-HHhve7mKZ4W3_v99z-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1169" />
+              <mxPoint x="710" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-49" value="Bank Investment" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;strokeColor=#4C0099;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="1156" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-52" value="Offers &amp;amp; Comparison" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;strokeColor=#4C0099;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1145" width="162.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-HHhve7mKZ4W3_v99z-53" value="Investment Plans" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;strokeColor=#4C0099;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1170" width="162.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
